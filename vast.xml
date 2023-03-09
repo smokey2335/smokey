@@ -1,0 +1,33 @@
+<VAST version="3.0">
+<Ad id="1">
+<InLine>
+<AdSystem>
+<![CDATA[ Bongacams.com ]]>
+</AdSystem>
+<AdTitle/>
+<Impression>https://www.smokeyandbash.com/2023/03/tracking-pixel.html</Impression>
+<Creatives>
+<Creative sequence="1" id="1">
+<Linear skipoffset="00:00:10">
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://bongacams.com/track?c=756161&ps=pre_roll ]]>
+</ClickThrough>
+</VideoClicks>
+<Duration>
+<![CDATA[ 00:00:19 ]]>
+</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720">
+<![CDATA[ https://i.bngprl.com/pre_roll/miranda_ray/bonga/en_z.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/webm" width="1280" height="720">
+<![CDATA[ https://i.bngprl.com/pre_roll/miranda_ray/bonga/en_z.webm ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
