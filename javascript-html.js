@@ -1,0 +1,1 @@
+document.write("<iframe src=\"https:\/\/www.smokeyandbash.com\/2023\/03\/tracking-pixel.html\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"1px\" width=\"1px\" allowfullscreen><\/iframe>");
